@@ -1,0 +1,2 @@
+Data/pitch_swing.csv filter=lfs diff=lfs merge=lfs -text
+Data/statcast_pitch_swing_data_20240402_20241030_with_arm_angle.csv filter=lfs diff=lfs merge=lfs -text
