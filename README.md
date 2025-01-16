@@ -1,5 +1,7 @@
 # baseballDataChallenge
 
+In this project, we aim to use data on bat speed and swing length to assess players’ performance metrics. We started by observing league wide trends, then shifted to doing analysis on individual players. We looked at performance in different situations, and created a model to predict player performance.
+
 
 # File Directory
 - Data/
